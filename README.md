@@ -28,9 +28,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 📌 Featured Projects
+- **[drone-swarm](https://github.com/obhox/drone-swarm)** — an open, MAVLink-compatible swarming layer that turns mixed drone fleets into a coordinated unit on ~$20/node hardware (Python).
 - **[kicad-mcp](https://github.com/obhox/kicad-mcp)** — forked and improved MCP server that connects AI tooling to KiCad/EDA hardware workflows (Rust).
+- **[dataDesign](https://github.com/obhox/dataDesign)** — an AI-powered system-design canvas: generate, edit, and analyse architectures in natural language (Next.js + Gemini).
 - **[sales-automation](https://github.com/obhox/sales-automation)** — GTM tooling to automate outbound and pipeline workflows.
-- **[Linkbry](https://github.com/obhox/Linkbry-back)** — full-stack platform with an async data layer, caching, and indexed queries for a major performance overhaul.
 - **[PicaSim (Modernised)](https://github.com/obhox/PicaSim-Modernised-version)** — a modernised, bug-fixed build of the open-source PicaSim RC flight & drone simulator (C++).
 - **[Flow](https://github.com/obhox/Flow)** — open-source hardware project planning software, powered by Gemini 2.5 Pro.
 
