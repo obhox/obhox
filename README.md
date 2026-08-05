@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Joy Oguntona 👋</h1>
 <p align="center">
-  <b>Mechanical Engineer × Software & GTM Engineer</b><br>
+  <b>Mechanical Engineer × Automation & GTM Engineer</b><br>
   I build AI tools, MCP servers, drones, and full-stack products.
 </p>
 
